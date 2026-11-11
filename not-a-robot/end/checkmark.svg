@@ -1,0 +1,18 @@
+<svg width="64" height="64" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+  <style>
+    .check {
+      fill: none;
+      stroke: #009E54;
+      stroke-width: 4.5;
+      stroke-dasharray: 100;
+      stroke-dashoffset: 100;
+      animation: draw 700ms ease-out 120ms forwards;
+    }
+    @keyframes draw {
+      to {
+        stroke-dashoffset: 0;
+      }
+    }
+  </style>
+  <path class="check" pathLength="100" d="M8 25 L20 36 L40 12"/>
+</svg>

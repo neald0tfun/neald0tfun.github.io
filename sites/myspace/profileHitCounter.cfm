@@ -1,0 +1,1 @@
+<html><head><meta name="url" id="base-url" content="http://www.myspace.com/profile/sandbox/profileHitCounter.cfm?friendID=6221"></head><body></body></html>

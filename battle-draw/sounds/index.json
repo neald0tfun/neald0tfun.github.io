@@ -1,0 +1,447 @@
+{
+ "shot-rifle": [
+  "shot-rifle-1.mp3",
+  "shot-rifle-2.mp3",
+  "shot-rifle-3.mp3",
+  "shot-rifle-4.mp3",
+  "shot-rifle-5.mp3",
+  "shot-rifle-6.mp3"
+ ],
+ "shot-sniper": [
+  "shot-sniper-1.mp3",
+  "shot-sniper-2.mp3"
+ ],
+ "bullet-hit": [
+  "bullet-hit-1.mp3",
+  "bullet-hit-2.mp3",
+  "bullet-hit-3.mp3",
+  "bullet-hit-4.mp3",
+  "bullet-hit-5.mp3",
+  "bullet-hit-6.mp3"
+ ],
+ "ricochet": [],
+ "bow": [
+  "bow-1.mp3"
+ ],
+ "arrow-hit": [
+  "arrow-hit-1.mp3"
+ ],
+ "throw": [
+  "throw-1.mp3"
+ ],
+ "explosion": [
+  "explosion-1.mp3"
+ ],
+ "flame": [],
+ "ignite": [],
+ "lightning": [
+  "lightning-1.mp3",
+  "lightning-2.mp3",
+  "lightning-3.mp3"
+ ],
+ "thunder": [],
+ "spell": [
+  "spell-1.mp3"
+ ],
+ "curse": [],
+ "blade": [],
+ "block": [],
+ "punch": [],
+ "club": [
+  "club-1.mp3"
+ ],
+ "smash": [],
+ "trample": [
+  "trample-1.mp3",
+  "trample-2.mp3",
+  "trample-3.mp3",
+  "trample-4.mp3"
+ ],
+ "death": [
+  "death-1.mp3",
+  "death-2.mp3"
+ ],
+ "bite-big": [],
+ "bite-small": [],
+ "splash": [
+  "splash-1.mp3",
+  "splash-2.mp3",
+  "splash-3.mp3",
+  "splash-4.mp3",
+  "splash-5.mp3",
+  "splash-6.mp3",
+  "splash-7.mp3",
+  "splash-8.mp3",
+  "splash-9.mp3"
+ ],
+ "splash-big": [
+  "splash-big-1.mp3",
+  "splash-big-2.mp3"
+ ],
+ "slime": [],
+ "flop": [
+  "flop-1.mp3",
+  "flop-2.mp3"
+ ],
+ "chest-beat": [
+  "chest-beat-1.mp3"
+ ],
+ "gorilla": [
+  "gorilla-1.mp3",
+  "gorilla-2.mp3",
+  "gorilla-3.mp3",
+  "gorilla-4.mp3",
+  "gorilla-5.mp3",
+  "gorilla-6.mp3",
+  "gorilla-7.mp3",
+  "gorilla-8.mp3",
+  "gorilla-9.mp3",
+  "gorilla-10.mp3"
+ ],
+ "gator": [
+  "gator-1.mp3"
+ ],
+ "boar": [
+  "boar-1.mp3",
+  "boar-2.mp3",
+  "boar-3.mp3"
+ ],
+ "horse": [
+  "horse-1.mp3",
+  "horse-2.mp3",
+  "horse-3.mp3"
+ ],
+ "zombie": [
+  "zombie-1.mp3",
+  "zombie-2.mp3",
+  "zombie-3.mp3",
+  "zombie-4.mp3",
+  "zombie-5.mp3"
+ ],
+ "giant": [],
+ "frog": [
+  "frog-1.mp3",
+  "frog-2.mp3",
+  "frog-3.mp3",
+  "frog-4.mp3"
+ ],
+ "rat": [
+  "rat-1.mp3",
+  "rat-2.mp3",
+  "rat-3.mp3",
+  "rat-4.mp3",
+  "rat-5.mp3"
+ ],
+ "drum": [],
+ "tree-fall": [],
+ "ui": [
+  "ui-1.mp3"
+ ],
+ "amb-fire": [
+  "amb-fire-1.mp3"
+ ],
+ "amb-water": [],
+ "amb-gallop": [],
+ "dragon-roar": [
+  "dragon-roar-1.mp3"
+ ],
+ "dragon-breath": [
+  "dragon-breath-1.mp3"
+ ],
+ "dragon-tail": [],
+ "wings": [],
+ "bow-draw": [
+  "bow-draw-1.mp3"
+ ],
+ "spear": [
+  "spear-1.mp3",
+  "spear-2.mp3",
+  "spear-3.mp3",
+  "spear-4.mp3",
+  "spear-5.mp3"
+ ],
+ "roman-charge": [
+  "roman-charge-1.mp3"
+ ],
+ "roman-charge-crowd": [
+  "roman-charge-crowd-1.mp3"
+ ],
+ "grunt": [
+  "grunt-1.mp3",
+  "grunt-2.mp3",
+  "grunt-3.mp3"
+ ],
+ "grenade-pin": [
+  "grenade-pin-1.mp3"
+ ],
+ "grenade-bounce": [
+  "grenade-bounce-1.mp3"
+ ],
+ "hat-off": [
+  "hat-off-1.mp3"
+ ],
+ "amb-march": [
+  "amb-march-1.mp3"
+ ],
+ "amb-march-crowd": [
+  "amb-march-crowd-1.mp3"
+ ],
+ "footstep": [
+  "footstep-1.mp3",
+  "footstep-2.mp3",
+  "footstep-3.mp3",
+  "footstep-4.mp3",
+  "footstep-5.mp3",
+  "footstep-6.mp3",
+  "footstep-7.mp3",
+  "footstep-8.mp3",
+  "footstep-9.mp3",
+  "footstep-10.mp3",
+  "footstep-11.mp3",
+  "footstep-12.mp3"
+ ],
+ "flame-start": [],
+ "flame-loop": [
+  "flame-loop-1.mp3"
+ ],
+ "scream": [
+  "scream-1.mp3",
+  "scream-2.mp3",
+  "scream-3.mp3",
+  "scream-4.mp3",
+  "scream-5.mp3"
+ ],
+ "zombie-bite": [
+  "zombie-bite-1.mp3"
+ ],
+ "slime-hop": [
+  "slime-hop-1.mp3",
+  "slime-hop-2.mp3",
+  "slime-hop-3.mp3",
+  "slime-hop-4.mp3"
+ ],
+ "slime-hit": [
+  "slime-hit-1.mp3"
+ ],
+ "boar-hit": [
+  "boar-hit-1.mp3",
+  "boar-hit-2.mp3",
+  "boar-hit-3.mp3"
+ ],
+ "wade": [
+  "wade-1.mp3",
+  "wade-2.mp3",
+  "wade-3.mp3",
+  "wade-4.mp3",
+  "wade-5.mp3",
+  "wade-6.mp3",
+  "wade-7.mp3",
+  "wade-8.mp3",
+  "wade-9.mp3",
+  "wade-10.mp3",
+  "wade-11.mp3",
+  "wade-12.mp3"
+ ],
+ "cough": [
+  "cough-1.mp3",
+  "cough-2.mp3",
+  "cough-3.mp3",
+  "cough-4.mp3"
+ ],
+ "rat-step": [
+  "rat-step-1.mp3",
+  "rat-step-2.mp3",
+  "rat-step-3.mp3",
+  "rat-step-4.mp3",
+  "rat-step-5.mp3",
+  "rat-step-6.mp3",
+  "rat-step-7.mp3",
+  "rat-step-8.mp3",
+  "rat-step-9.mp3",
+  "rat-step-10.mp3"
+ ],
+ "heavy-step": [
+  "heavy-step-1.mp3",
+  "heavy-step-2.mp3",
+  "heavy-step-3.mp3",
+  "heavy-step-4.mp3",
+  "heavy-step-5.mp3",
+  "heavy-step-6.mp3"
+ ],
+ "gallop": [
+  "gallop-1.mp3",
+  "gallop-2.mp3",
+  "gallop-3.mp3",
+  "gallop-4.mp3",
+  "gallop-5.mp3",
+  "gallop-6.mp3",
+  "gallop-7.mp3",
+  "gallop-8.mp3",
+  "gallop-9.mp3",
+  "gallop-10.mp3",
+  "gallop-11.mp3",
+  "gallop-12.mp3"
+ ],
+ "giant-hit": [
+  "giant-hit-1.mp3"
+ ],
+ "gallop-run": [
+  "gallop-run-1.mp3",
+  "gallop-run-2.mp3",
+  "gallop-run-3.mp3",
+  "gallop-run-4.mp3",
+  "gallop-run-5.mp3",
+  "gallop-run-6.mp3",
+  "gallop-run-7.mp3",
+  "gallop-run-8.mp3",
+  "gallop-run-9.mp3",
+  "gallop-run-10.mp3",
+  "gallop-run-11.mp3",
+  "gallop-run-12.mp3"
+ ],
+ "steam": [
+  "steam-1.mp3",
+  "steam-2.mp3",
+  "steam-3.mp3",
+  "steam-4.mp3"
+ ],
+ "hit-solid": [
+  "hit-solid-1.mp3",
+  "hit-solid-2.mp3",
+  "hit-solid-3.mp3"
+ ],
+ "ape-step": [
+  "ape-step-1.mp3",
+  "ape-step-2.mp3",
+  "ape-step-3.mp3",
+  "ape-step-4.mp3",
+  "ape-step-5.mp3",
+  "ape-step-6.mp3",
+  "ape-step-7.mp3",
+  "ape-step-8.mp3",
+  "ape-step-9.mp3"
+ ],
+ "ape-smash": [
+  "ape-smash-1.mp3"
+ ],
+ "rat-bite": [
+  "rat-bite-1.mp3",
+  "rat-bite-2.mp3",
+  "rat-bite-3.mp3",
+  "rat-bite-4.mp3",
+  "rat-bite-5.mp3",
+  "rat-bite-6.mp3",
+  "rat-bite-7.mp3",
+  "rat-bite-8.mp3"
+ ],
+ "gator-bite": [
+  "gator-bite-1.mp3",
+  "gator-bite-2.mp3",
+  "gator-bite-3.mp3",
+  "gator-bite-4.mp3"
+ ],
+ "gator-hiss": [
+  "gator-hiss-1.mp3"
+ ],
+ "piranha-bite": [
+  "piranha-bite-1.mp3"
+ ],
+ "hoof": [
+  "hoof-1.mp3",
+  "hoof-2.mp3",
+  "hoof-3.mp3",
+  "hoof-4.mp3",
+  "hoof-5.mp3",
+  "hoof-6.mp3",
+  "hoof-7.mp3",
+  "hoof-8.mp3",
+  "hoof-9.mp3"
+ ],
+ "place-soldier": [
+  "place-soldier-1.mp3",
+  "place-soldier-2.mp3",
+  "place-soldier-3.mp3",
+  "place-soldier-4.mp3",
+  "place-soldier-5.mp3",
+  "place-soldier-6.mp3",
+  "place-soldier-7.mp3",
+  "place-soldier-8.mp3",
+  "place-soldier-9.mp3",
+  "place-soldier-10.mp3"
+ ],
+ "ice-crack": [
+  "ice-crack-1.mp3",
+  "ice-crack-2.mp3",
+  "ice-crack-3.mp3"
+ ],
+ "ice-break": [
+  "ice-break-1.mp3"
+ ],
+ "place-roman": [
+  "place-roman-1.mp3"
+ ],
+ "place-archer": [
+  "place-archer-1.mp3"
+ ],
+ "place-mage": [
+  "place-mage-1.mp3"
+ ],
+ "place-zombie": [
+  "place-zombie-1.mp3"
+ ],
+ "place-tree": [
+  "place-tree-1.mp3"
+ ],
+ "snake-bite": [
+  "snake-bite-1.mp3"
+ ],
+ "amb-slither": [
+  "amb-slither-1.mp3"
+ ],
+ "snake-snap": [
+  "snake-snap-1.mp3"
+ ],
+ "tree-uproot": [
+  "tree-uproot-1.mp3"
+ ],
+ "mine-beep": [
+  "mine-beep-1.mp3"
+ ],
+ "mine-ping": [
+  "mine-ping-1.mp3"
+ ],
+ "raise": [
+  "raise-1.mp3"
+ ],
+ "teleport": [
+  "teleport-1.mp3"
+ ],
+ "shuriken-throw": [
+  "shuriken-throw-1.mp3"
+ ],
+ "cheetah-bite": [
+  "cheetah-bite-1.mp3",
+  "cheetah-bite-2.mp3"
+ ],
+ "slip": [
+  "slip-1.mp3"
+ ],
+ "slime-split": [
+  "slime-split-1.mp3"
+ ],
+ "frog-tongue": [
+  "frog-tongue-1.mp3"
+ ],
+ "dragon-land": [
+  "dragon-land-1.mp3"
+ ],
+ "win": [
+  "win-1.mp3"
+ ],
+ "cheetah": [
+  "cheetah-1.mp3"
+ ],
+ "cheetah-hit": [
+  "cheetah-hit-1.mp3"
+ ]
+}
